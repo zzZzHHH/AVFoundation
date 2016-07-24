@@ -49,7 +49,7 @@
     
 }
 
-#pragma mark -- 结束录音
+#pragma mark -- 结束录音-
 - (IBAction)end:(id)sender {
     
     [self.audioRecorder stop];
